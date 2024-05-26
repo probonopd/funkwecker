@@ -1,1 +1,19 @@
-.pio
+# PlatformIO build files
+.pio/
+lib/
+*.bin
+*.elf
+*.hex
+
+# Visual Studio Code files (if using VSCode)
+.vscode/
+
+# System or IDE files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Compiled binaries
+*.o
+*.d
+*.map
